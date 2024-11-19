@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Bienvenue sur mon profil GitHub https://github.com/sefa-zor!
+## 👋 Bienvenue sur mon profil GitHub https://github.com/sefa-zor!
 
 ![Header](./pmp.png)
 
